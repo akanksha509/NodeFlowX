@@ -21,8 +21,6 @@
     │   ├── main.py            # FastAPI main file
     │   ├── helpers.py         # DAG validation logic
     │   ├── requirements.txt   # Backend dependencies
-    │   ├── fly.toml           # Fly.io deployment config
-    │   ├── .github/workflows/ # GitHub Actions for auto-deploy
     │   └── .venv/             # Virtual environment (excluded in .gitignore)
     ├── frontend/              # React Frontend
     │   ├── src/               # Source Code
